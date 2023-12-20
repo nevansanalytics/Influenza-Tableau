@@ -47,4 +47,9 @@ The analysis involves multiple data sets covering:
 - Conclusions, recommendations, and next steps in the final presentation.
 
 ## Project Deliverables (Achievements 1 & 2)
-The project will involve a series of exercises focusing on planning, data preparation, statistical analysis, data visualization, and storytelling.
+The project involves a series of exercises focusing on planning, data preparation, statistical analysis, data visualization, and storytelling.
+
+[View Detailed Project Tasks and Deliverables Here]
+
+https://www.youtube.com/watch?v=IgRpKM2lRAU
+https://public.tableau.com/app/profile/nathan.evans6539/viz/NathanEvansInfluenzaStory/Story1?publish=yes
